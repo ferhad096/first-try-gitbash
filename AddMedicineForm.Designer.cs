@@ -150,7 +150,7 @@ namespace MedicineApp
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label5.ForeColor = System.Drawing.Color.LightSeaGreen;
-            this.label5.Location = new System.Drawing.Point(197, 9);
+            this.label5.Location = new System.Drawing.Point(222, 9);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(51, 21);
             this.label5.TabIndex = 12;
@@ -160,7 +160,7 @@ namespace MedicineApp
             // 
             this.cmbFirms.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.cmbFirms.FormattingEnabled = true;
-            this.cmbFirms.Location = new System.Drawing.Point(197, 34);
+            this.cmbFirms.Location = new System.Drawing.Point(222, 34);
             this.cmbFirms.Name = "cmbFirms";
             this.cmbFirms.Size = new System.Drawing.Size(155, 29);
             this.cmbFirms.TabIndex = 13;
